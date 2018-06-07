@@ -1,0 +1,16 @@
+
+* {
+	box-sizing: border-box;
+}
+body {
+	width: 970px;
+	margin: 0px auto;
+}
+div {
+	background-color: grey;
+}
+
+h2 {
+	background-color: red;
+}
+

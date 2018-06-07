@@ -1,0 +1,25 @@
+
+body {
+	font-weight: bold;
+	background-image: url(images/background.jpg);
+	width: 970px;
+	margin: 0 auto;
+	font-family: 'Montserrat', sans-serif;
+}
+h1 {
+	color: red;
+	text-align: center;
+}
+h3 {
+	text-align: right;
+}
+h5 {
+	text-align: right;
+	color: grey;
+}
+h2 {
+	color: blue;
+}
+ul {
+    list-style-type:square;
+}

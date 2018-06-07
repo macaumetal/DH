@@ -1,0 +1,27 @@
+lenguaje de objetos: java, c++, .net
+Es la mirada mas de diseño del software
+Los objetos tienen atributos: nombre, marca, color , precio etc
+
+Los comportamientos tambien definen a un objeto. Generan una cuestion de responsabilidad (el usuaro tiene la responsabilidad de loguearse)
+
+
+UN objeto tiene:
+-Atributos
+-Comportamiento
+-Responsabilidad
+
+
+Una clase es definir atributos y comportamientos
+Objeto: es una instancia de una clase
+CLASe: es e molde con el que definis un objeto
+
+
+La programacion enfocada en objetos:
+Herencia:
+	
+
+
+encapsulamiento: 
+	PUBLIC: ACCESIBLE PARA TODOS
+	Private: no puede ser accedido o modiicado por fuera de la clase. SOlamente la misma clase puede consulta, acceder o modificar
+polimorfismo: 
