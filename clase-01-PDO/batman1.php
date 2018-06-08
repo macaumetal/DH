@@ -17,7 +17,7 @@ foreach ($resultado as $key => $value) {
 		echo "<br>";
 	}
 	
-	var_dump($resultado);
+	
 }
 
 ?>
