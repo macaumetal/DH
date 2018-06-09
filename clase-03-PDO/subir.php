@@ -15,6 +15,7 @@ var_dump($_FILES ['fotoPerfil']['error']);
 			move_uploaded_file($archivoTemp, $laFotodePerfil);
 
 			
+      echo $_FILES["fotoPerfil"]["name"];
 		}
 	}
 	subirArchivo();
@@ -32,7 +33,7 @@ var_dump($_FILES ['fotoPerfil']['error']);
 	<input type="file" name="fotoPerfil"><br>
 	<input type="submit" name="Subir">
 	
-
+<img src="<?php echo $_FILES["fotoPerfil"]["name"] ?>">
 
 </form>
 

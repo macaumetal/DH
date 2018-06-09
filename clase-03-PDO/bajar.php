@@ -1,3 +1,9 @@
+<?php
+include 'subir.php';
+
+?>
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,5 +11,7 @@
 </head>
 <body>
 
+
+<img src="subidos/ . <?=$laFotodePerfil?>">
 </body>
 </html>
